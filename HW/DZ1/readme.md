@@ -38,3 +38,6 @@
 show ip route static
 show ipv6 route static
 ```
+
+
+![](pbr.png)
